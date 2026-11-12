@@ -1,0 +1,2 @@
+symbol,isin,name,type,quantity,cost_per_unit,cost_currency,buy_date,last_price,price_currency,fx_to_eur,asset_class,region
+EXAMPLE,IE00B4L5Y983,EXAMPLE - iShares Core MSCI World UCITS ETF (Acc) - replace with your own,ETF,10,80.00,EUR,2025-03-15,100.00,EUR,1.0,equity,global
