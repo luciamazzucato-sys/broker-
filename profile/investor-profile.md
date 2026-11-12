@@ -14,16 +14,16 @@ _Last updated: 2026-11-12_ (goal, horizon, risk filled). Update via `/investor-p
   (build-up phase), then draw a regular income in retirement (income phase).
   Preferred way to reinvest: **accumulating UCITS ETFs**. They reinvest automatically,
   with no yearly tax on dividends in Luxembourg. See `reference/luxembourg-investing.md` for the tax angle of each phase.
-- **Current age / planned retirement age:** 52 / 65 (13 years). ⚠️ Earlier answer said an 18-year horizon (to age 70); needs confirming
+- **Current age / planned retirement age:** 52 / 65, so **13 years** (confirmed; earlier '18 years' superseded)
 - **Desired extra monthly income in retirement (EUR, today's money):** 2,000
-- **Investment horizon:** 18 years until retirement (from 2026, so around 2044), then about 25+ years of drawdown
-- **Other pension sources:** Luxembourg state pension (CNAP): amount TODO. Art. 111bis: considering Spuerkeess S-Pension
-- **Income / tax:** gross ~€103,009/yr; does not file a tax return today; tax class TODO (1 or 2). Estimated marginal rate ~41.7% if class 1 (39% + 7% employment-fund surcharge)
+- **Investment horizon:** 13 years until retirement (2039), then about 25+ years of drawdown
+- **Other pension sources:** Luxembourg state pension (CNAP): 12 years so far, ~25 years at 65; amount TODO (request estimate). Pensions from earlier career in other countries: TODO. Art. 111bis: considering Spuerkeess S-Pension
+- **Income / tax:** gross ~€103,009/yr; does not file a tax return today; tax class 1 (single). Estimated marginal rate ~41.7% (39% + 7% employment-fund surcharge)
 - **Bank:** Spuerkeess (BCEE)
 
 ## Money
 - **Starting capital (EUR):** 20,000
-- **Monthly contribution (EUR):** 900
+- **Monthly contribution (EUR):** 900 now; willing to increase (amount TODO). ~€2,100/month needed for the €2,000 target (spend-down, 4% real)
 - **Emergency fund in place?** Yes, kept outside the portfolio
 
 ## Risk
@@ -43,6 +43,6 @@ _Proposed, awaiting confirmation:_ glide path
 
 | Period | Global equity ETF(s) | Bonds / safe assets |
 |---|---|---|
-| 2026–2036 (years 1–10) | 90–100% | 0–10% |
-| 2037–2041 (years 11–15) | step down ~5 pts/yr | step up |
-| 2042–2044 (retirement) | 60–70% | 30–40% |
+| 2026–2032 (age 52–58) | 90–100% | 0–10% |
+| 2033–2037 (age 59–63) | step down ~5–6 pts/yr | step up |
+| 2038–2039 (age 64–65) | 60–70% | 30–40% (incl. ~2 years of spending in safe assets) |

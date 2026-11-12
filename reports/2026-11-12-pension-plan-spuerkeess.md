@@ -34,3 +34,17 @@ _Research only, not personal financial or tax advice. Return assumption 4% real 
 2. Claim the deduction each year (tax return or *décompte annuel*). Expect a refund of ≈ €1,880/yr and invest it in the ETF.
 3. €20,000 lump sum + €525/month into a global accumulating ETF (VWCE or WEBN).
 4. Request a **CNAP pension estimate** (via MyGuichet) to size the real gap.
+
+## Update: confirmed retire at 65, single (class 1), 12 years in Luxembourg so far
+Contribution scenarios over 13 years (S-Pension €375/month + rest in ETF + tax refund reinvested; 4% real):
+
+| Monthly total | Capital at 65 | Perpetual income | Spend-down over 25 yrs |
+|---:|---:|---:|---:|
+| €900 | €230k | €670 | €975 |
+| €1,200 | €291k | €850 | €1,235 |
+| €1,500 | €353k | €1,030 | €1,495 |
+| €2,000 | €455k | €1,325 | €1,925 |
+| **€2,100** | ≈ €475k | ≈ €1,385 | **≈ €2,000** |
+| €2,500 | €557k | €1,625 | €2,360 |
+
+Glide path compressed to 13 years (see profile).
