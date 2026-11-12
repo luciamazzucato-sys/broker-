@@ -9,9 +9,13 @@ _Last updated: 2026-11-12_. Update via `/investor-profile`.
 - **Account type / broker:** TODO (e.g. Interactive Brokers, Degiro, a Luxembourg bank)
 
 ## Goals
-- **Primary goal:** TODO (e.g. long-term growth, retirement, dividend income, home deposit)
-- **Target amount / date (if any):** TODO
-- **Investment horizon:** TODO (years)
+- **Primary goal:** Build a portfolio that provides an income in retirement
+- **Strategy shape:** Build-up phase (grow the capital) until retirement, then income phase
+  (draw a regular income). See `reference/luxembourg-investing.md` for the tax angle of each phase.
+- **Current age / planned retirement age:** TODO
+- **Desired extra monthly income in retirement (EUR, today's money):** TODO
+- **Investment horizon:** TODO (years until retirement, then about 25+ years of drawdown)
+- **Other pension sources:** TODO (Luxembourg state pension (CNAP), employer plan, Art. 111bis private plan)
 
 ## Money
 - **Starting capital (EUR):** TODO

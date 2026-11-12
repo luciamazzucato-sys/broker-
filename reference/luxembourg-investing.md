@@ -40,6 +40,21 @@ adviser before acting. This is not tax advice._
 - Foreign withholding on **direct** dividends (e.g. US 15% with W-8BEN, others vary) may be
   creditable in Luxembourg up to treaty limits. Reclaim procedures vary by country.
 
+## Retirement income: tax angle (verify)
+- **Build-up phase:** accumulating UCITS ETFs reinvest dividends without investor-level tax.
+- **Income phase, two ways to get cash:**
+  - *Dividends / distributing ETFs:* taxed at progressive income-tax rates (fund distributions
+    are generally not eligible for the 50% exemption).
+  - *Selling a slice of shares held more than 6 months:* gains are generally tax-exempt for
+    private investors. A planned "withdraw X% per year by selling" approach can therefore
+    be more tax-efficient for a Luxembourg resident than living off dividends.
+- **Art. 111bis private pension plan (prévoyance-vieillesse):** contributions are deductible up
+  to **€4,500 per year** per taxpayer (amount since the 2023 reform). Payout starts no earlier
+  than age 60, after at least 10 years of contributions. A partial lump sum is taxed at a
+  reduced rate and the annuity portion is partly exempt. Products are limited (insurers and
+  banks), and fees are often higher than ETFs. Compare the tax saving against the costs.
+- **Employer supplementary pension** (if offered) is often the cheapest building block.
+
 ## Investor protection
 - **Deposits:** FGDL guarantees up to **€100,000** per depositor per bank.
 - **Securities (if a broker fails):** SIIL / investor compensation up to **€20,000**. Securities
