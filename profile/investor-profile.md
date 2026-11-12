@@ -23,7 +23,7 @@ _Last updated: 2026-11-12_ (goal, horizon, risk filled). Update via `/investor-p
 
 ## Money
 - **Starting capital (EUR):** 20,000
-- **Monthly contribution (EUR):** 900 now; willing to increase (amount TODO). ~€2,100/month needed for the €2,000 target (spend-down, 4% real)
+- **Monthly contribution (EUR):** **1,200** (decided 2026-11-12): €375 S-Pension + €825 ETF savings plan; yearly tax refund (~€1,880) also into the ETF
 - **Emergency fund in place?** Yes, kept outside the portfolio
 
 ## Risk
@@ -39,7 +39,7 @@ _Last updated: 2026-11-12_ (goal, horizon, risk filled). Update via `/investor-p
 - **Rebalancing:** TODO (e.g. yearly, or when an asset drifts more than 5 points)
 
 ## Target allocation
-_Proposed, awaiting confirmation:_ glide path
+_Agreed 2026-11-12:_ glide path (see reports/2026-11-12-final-plan.md)
 
 | Period | Global equity ETF(s) | Bonds / safe assets |
 |---|---|---|
