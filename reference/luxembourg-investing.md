@@ -49,7 +49,9 @@ adviser before acting. This is not tax advice._
     private investors. A planned "withdraw X% per year by selling" approach can therefore
     be more tax-efficient for a Luxembourg resident than living off dividends.
 - **Art. 111bis private pension plan (prévoyance-vieillesse):** contributions are deductible up
-  to **€4,500 per year** per taxpayer (amount since the 2023 reform). Payout starts no earlier
+  to **€4,500 per year** per taxpayer **from tax year 2026** (it was €3,200 for 2017–2025; source:
+  impotsdirects.public.lu, checked 2026-11-12). The contract must run at least 10 years and be
+  with an insurer or credit institution approved in Luxembourg. Payout starts no earlier
   than age 60, after at least 10 years of contributions. A partial lump sum is taxed at a
   reduced rate and the annuity portion is partly exempt. Products are limited (insurers and
   banks), and fees are often higher than ETFs. Compare the tax saving against the costs.
