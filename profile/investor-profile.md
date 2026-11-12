@@ -30,7 +30,7 @@ _Last updated: 2026-11-12_ (goal, horizon, risk filled). Update via `/investor-p
 - **Experience level:** TODO (beginner / intermediate / advanced)
 
 ## Preferences and rules
-- **Style:** TODO (passive ETFs / mostly ETFs + some stocks / active stock picking)
+- **Style:** Passive ETFs. Core: one global accumulating ETF (VWCE preferred, see reports/2026-11-12-compare-global-etfs.md)
 - **Income preference:** Accumulating during build-up. Review distributing vs selling a slice each year about 3 years before retirement.
 - **Exclusions (sectors, ESG):** TODO
 - **Max single-stock weight:** TODO (suggested default: 5–10%)

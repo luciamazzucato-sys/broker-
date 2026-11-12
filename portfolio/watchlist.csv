@@ -1,1 +1,5 @@
 symbol,isin,name,type,reason,added
+VWCE,IE00BK5BQT80,Vanguard FTSE All-World UCITS ETF (USD) Acc,ETF,Core holding - preferred,2026-11-12
+WEBN,IE0003XJA0J9,Amundi Prime All Country World UCITS ETF Acc,ETF,Core holding - low-cost alternative,2026-11-12
+SPYI,IE00B3YLTY66,SPDR MSCI ACWI IMI UCITS ETF Acc,ETF,Core alternative incl. small caps,2026-11-12
+VGEA,IE00BH04GL39,Vanguard EUR Eurozone Government Bond UCITS ETF Acc,ETF,Bond sleeve from ~2037,2026-11-12
