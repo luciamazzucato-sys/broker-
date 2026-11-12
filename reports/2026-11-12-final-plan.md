@@ -15,8 +15,8 @@ _Research only, not personal financial or tax advice. Projections in today's eur
 |---|---:|
 | Luxembourg state pension (estimate) | €3,500–4,000 |
 | Pensions from earlier countries | TODO |
-| Investments (~€291k: ETF ~€234k + S-Pension ~€58k after exit tax) | €850 (capital kept) to €1,235 (spent over 25 yrs) |
-| **Total** | **≈ €4,350–5,250 + foreign pensions** |
+| Investments (median ~€267k; range €176k–447k, see plan-stress-test) | €700 (prudent) to €1,100 (median) |
+| **Total** | **≈ €4,200–5,100 + foreign pensions** |
 
 ## Glide path
 | Age | ETF savings plan | S-Pension sub-fund |
