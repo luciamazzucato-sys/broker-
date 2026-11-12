@@ -6,7 +6,7 @@ _Last updated: 2026-11-12_ (goal, horizon, risk filled). Update via `/investor-p
 - **Tax residence:** Luxembourg
 - **Base currency:** EUR
 - **Instruments:** Stocks, ETFs
-- **Account type / broker:** TODO (e.g. Interactive Brokers, Degiro, a Luxembourg bank)
+- **Account type / broker:** To choose. Shortlist: Trade Republic (simplest, free savings plan) or Interactive Brokers (see reports/2026-11-12-retirement-plan.md)
 
 ## Goals
 - **Primary goal:** Build a portfolio that provides an income in retirement
@@ -15,14 +15,14 @@ _Last updated: 2026-11-12_ (goal, horizon, risk filled). Update via `/investor-p
   Preferred way to reinvest: **accumulating UCITS ETFs**. They reinvest automatically,
   with no yearly tax on dividends in Luxembourg. See `reference/luxembourg-investing.md` for the tax angle of each phase.
 - **Current age / planned retirement age:** TODO
-- **Desired extra monthly income in retirement (EUR, today's money):** TODO
+- **Desired extra monthly income in retirement (EUR, today's money):** 2,000
 - **Investment horizon:** 18 years until retirement (from 2026, so around 2044), then about 25+ years of drawdown
 - **Other pension sources:** TODO (Luxembourg state pension (CNAP), employer plan, Art. 111bis private plan)
 
 ## Money
-- **Starting capital (EUR):** TODO
-- **Monthly contribution (EUR):** TODO
-- **Emergency fund in place?** TODO (recommended: 3–6 months of expenses, kept outside the portfolio)
+- **Starting capital (EUR):** 20,000
+- **Monthly contribution (EUR):** 900
+- **Emergency fund in place?** Yes, kept outside the portfolio
 
 ## Risk
 - **Risk tolerance:** High (would *buy more* after a -35% fall)
