@@ -17,7 +17,7 @@ _Last updated: 2026-11-12_ (goal, horizon, risk filled). Update via `/investor-p
 - **Current age / planned retirement age:** 52 / 65, so **13 years** (confirmed; earlier '18 years' superseded)
 - **Desired extra monthly income in retirement (EUR, today's money):** 2,000
 - **Investment horizon:** 13 years until retirement (2039), then about 25+ years of drawdown
-- **Other pension sources:** Luxembourg state pension (CNAP): 12 years so far, ~25 years at 65; amount TODO (request estimate). Pensions from earlier career in other countries: TODO. Art. 111bis: considering Spuerkeess S-Pension
+- **Other pension sources:** Luxembourg state pension (CNAP): 12 years so far, ~25 years at 65; rough estimate ≈ €3,500–4,000 gross/month in today's money (see reports/2026-11-12-state-pension-estimate.md); official CNAP estimate TODO. Pensions from earlier career in other countries: TODO. Art. 111bis: considering Spuerkeess S-Pension
 - **Income / tax:** gross ~€103,009/yr; does not file a tax return today; tax class 1 (single). Estimated marginal rate ~41.7% (39% + 7% employment-fund surcharge)
 - **Bank:** Spuerkeess (BCEE)
 
