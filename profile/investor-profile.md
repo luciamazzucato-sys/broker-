@@ -14,10 +14,12 @@ _Last updated: 2026-11-12_ (goal, horizon, risk filled). Update via `/investor-p
   (build-up phase), then draw a regular income in retirement (income phase).
   Preferred way to reinvest: **accumulating UCITS ETFs**. They reinvest automatically,
   with no yearly tax on dividends in Luxembourg. See `reference/luxembourg-investing.md` for the tax angle of each phase.
-- **Current age / planned retirement age:** TODO
+- **Current age / planned retirement age:** 52 / 65 (13 years). ⚠️ Earlier answer said an 18-year horizon (to age 70); needs confirming
 - **Desired extra monthly income in retirement (EUR, today's money):** 2,000
 - **Investment horizon:** 18 years until retirement (from 2026, so around 2044), then about 25+ years of drawdown
-- **Other pension sources:** TODO (Luxembourg state pension (CNAP), employer plan, Art. 111bis private plan)
+- **Other pension sources:** Luxembourg state pension (CNAP): amount TODO. Art. 111bis: considering Spuerkeess S-Pension
+- **Income / tax:** gross ~€103,009/yr; does not file a tax return today; tax class TODO (1 or 2). Estimated marginal rate ~41.7% if class 1 (39% + 7% employment-fund surcharge)
+- **Bank:** Spuerkeess (BCEE)
 
 ## Money
 - **Starting capital (EUR):** 20,000
